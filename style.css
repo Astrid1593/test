@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
+#title{
+    font-family: "Courier New", monospace;
+    font-size: 50px; !important
+}
+h1{
+    font-family: "Courier New", monospace;
+}
+h2{
+    font-family: "Courier New", monospace;
+}
+#poolpic{
+    border-width: 10px; 
+    border-color: white; 
+    border-radius: 100px; 
+    width: 500px; !important
+}
+.daisy{
+    border-width: 10px;
+    border-color: white;
+    border-radius: 100px;
+    width: 100px;
+}
+#parclink{
+    font-size: 30px;
+    font-family: "Courier New", monospace;
+    text-decoration: none;
+    color: forestgreen;
+}
+#parclink:hover{
+    color: darkseagreen;
+    background-color: floralwhite;
+    transform: scale(0.9);
+}
+p{
+    color: rosybrown;
+    font-family: "Courier New", monospace;
+}
